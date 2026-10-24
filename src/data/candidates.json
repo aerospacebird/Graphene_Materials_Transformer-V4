@@ -1,0 +1,182 @@
+[
+  {
+    "formula": "AlNi2BO5",
+    "similarity": 0.862373,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.320189,
+    "energy_above_hull": 0.0,
+    "band_gap": 3.6211,
+    "composite_score": 77.9
+  },
+  {
+    "formula": "AgMoPO6",
+    "similarity": 0.873714,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.981106,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.0962,
+    "composite_score": 78.1
+  },
+  {
+    "formula": "Ag9P14(OF)28",
+    "similarity": 0.839584,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.369994,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0265,
+    "composite_score": 92.0
+  },
+  {
+    "formula": "Al2(MoO4)3",
+    "similarity": 0.830746,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.403986,
+    "energy_above_hull": 0.0,
+    "band_gap": 3.5374,
+    "composite_score": 98.6
+  },
+  {
+    "formula": "AgMo6Cl13",
+    "similarity": 0.857699,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.282729,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.6358,
+    "composite_score": 105.4
+  },
+  {
+    "formula": "Ag2B8O13",
+    "similarity": 0.81353,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.510656,
+    "energy_above_hull": 0.0,
+    "band_gap": 3.2651,
+    "composite_score": 105.6
+  },
+  {
+    "formula": "AgBH2OF4",
+    "similarity": 0.81353,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.162864,
+    "energy_above_hull": 0.0,
+    "band_gap": 3.044,
+    "composite_score": 113.1
+  },
+  {
+    "formula": "Ag2Ge(S2O7)3",
+    "similarity": 0.835038,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.599948,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.8072,
+    "composite_score": 113.3
+  },
+  {
+    "formula": "Ag2Sn(S2O7)3",
+    "similarity": 0.821841,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.616674,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.4602,
+    "composite_score": 119.1
+  },
+  {
+    "formula": "Ag4Mo2Se3O16",
+    "similarity": 0.839584,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.227227,
+    "energy_above_hull": 0.0,
+    "band_gap": 1.6143,
+    "composite_score": 122.3
+  },
+  {
+    "formula": "Ag3S4(O3F)4",
+    "similarity": 0.798665,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.638239,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0,
+    "composite_score": 133.0
+  },
+  {
+    "formula": "AlPd2",
+    "similarity": 0.846428,
+    "carbon_ratio": 0.0,
+    "formation_energy": -0.829247,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0,
+    "composite_score": 133.6
+  },
+  {
+    "formula": "AgP(OF)2",
+    "similarity": 0.781634,
+    "carbon_ratio": 0.0,
+    "formation_energy": -2.261494,
+    "energy_above_hull": 0.0,
+    "band_gap": 1.9686,
+    "composite_score": 134.6
+  },
+  {
+    "formula": "Al3Pd5",
+    "similarity": 0.842072,
+    "carbon_ratio": 0.0,
+    "formation_energy": -0.857533,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0,
+    "composite_score": 134.8
+  },
+  {
+    "formula": "AgPO3",
+    "similarity": 0.781634,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.958048,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.0246,
+    "composite_score": 138.2
+  },
+  {
+    "formula": "AgW3Br7",
+    "similarity": 0.842001,
+    "carbon_ratio": 0.0,
+    "formation_energy": -0.817788,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.6908,
+    "composite_score": 138.9
+  },
+  {
+    "formula": "Ag2P2H2O7",
+    "similarity": 0.781634,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.815974,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.150563,
+    "composite_score": 140.0
+  },
+  {
+    "formula": "Al2(CN2)3",
+    "similarity": 0.879267,
+    "carbon_ratio": 0.375,
+    "formation_energy": -0.609315,
+    "energy_above_hull": 0.0,
+    "band_gap": 2.8366,
+    "composite_score": 140.7
+  },
+  {
+    "formula": "Al2RuRh",
+    "similarity": 0.824692,
+    "carbon_ratio": 0.0,
+    "formation_energy": -1.0084,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0,
+    "composite_score": 143.5
+  },
+  {
+    "formula": "AlFeRh2",
+    "similarity": 0.870983,
+    "carbon_ratio": 0.0,
+    "formation_energy": -0.595923,
+    "energy_above_hull": 0.0,
+    "band_gap": 0.0,
+    "composite_score": 144.8
+  }
+]

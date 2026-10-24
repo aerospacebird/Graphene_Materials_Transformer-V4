@@ -1,0 +1,1327 @@
+{
+  "graphene_reference": {
+    "formula": "Graphene (C)",
+    "PC1": -0.15,
+    "PC2": -3.65,
+    "similarity": 1.0
+  },
+  "explained_variance": {
+    "PC1": 42.28,
+    "PC2": 17.54,
+    "cumulative": 59.82
+  },
+  "points": [
+    {
+      "material_id": "mp-9956",
+      "formula": "AlCr2C",
+      "similarity": 0.912784,
+      "PC1": 4.6338,
+      "PC2": -2.8159,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1591",
+      "formula": "Al4C3",
+      "similarity": 0.881306,
+      "PC1": 0.9183,
+      "PC2": -3.8138,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1029975",
+      "formula": "Al2(CN2)3",
+      "similarity": 0.879267,
+      "PC1": -0.8847,
+      "PC2": 1.6177,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1214897",
+      "formula": "Al2(Ni7B2)3",
+      "similarity": 0.878489,
+      "PC1": 3.7357,
+      "PC2": -1.2,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1228540",
+      "formula": "Al2VNi9",
+      "similarity": 0.878168,
+      "PC1": 3.845,
+      "PC2": -1.5095,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-637575",
+      "formula": "AlCr3B4",
+      "similarity": 0.875335,
+      "PC1": 2.1641,
+      "PC2": -4.2163,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1228832",
+      "formula": "AlNi6Ge",
+      "similarity": 0.874067,
+      "PC1": 3.7251,
+      "PC2": -1.064,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-14029",
+      "formula": "AgMoPO6",
+      "similarity": 0.873714,
+      "PC1": 4.6257,
+      "PC2": 0.1496,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-505472",
+      "formula": "Al3(Ni10B3)2",
+      "similarity": 0.872405,
+      "PC1": 3.6521,
+      "PC2": -1.3649,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-861953",
+      "formula": "AlFeRh2",
+      "similarity": 0.870983,
+      "PC1": 4.8238,
+      "PC2": -0.7542,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-554873",
+      "formula": "Ag2B8O13",
+      "similarity": 0.81353,
+      "PC1": 3.588,
+      "PC2": -2.3796,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1195618",
+      "formula": "Ag9P14(OF)28",
+      "similarity": 0.839584,
+      "PC1": 3.7382,
+      "PC2": -0.695,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1214988",
+      "formula": "AgMo6Cl13",
+      "similarity": 0.857699,
+      "PC1": 3.7723,
+      "PC2": -5.139,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-29718",
+      "formula": "AgW3Br7",
+      "similarity": 0.842001,
+      "PC1": 4.5452,
+      "PC2": -2.6397,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-19521",
+      "formula": "Al2(MoO4)3",
+      "similarity": 0.830746,
+      "PC1": 3.5171,
+      "PC2": -1.8451,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-4691",
+      "formula": "Ag2CO3",
+      "similarity": 0.789272,
+      "PC1": 4.1806,
+      "PC2": 0.3539,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-18702",
+      "formula": "AgPO3",
+      "similarity": 0.781634,
+      "PC1": 4.9177,
+      "PC2": -1.7331,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1201018",
+      "formula": "Ag3S4(O3F)4",
+      "similarity": 0.798665,
+      "PC1": 2.4663,
+      "PC2": -4.026,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-559257",
+      "formula": "AgBi(IO3)4",
+      "similarity": 0.79714,
+      "PC1": 4.2334,
+      "PC2": 0.6293,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-558188",
+      "formula": "AgHg2PO4",
+      "similarity": 0.77277,
+      "PC1": 3.7797,
+      "PC2": -2.1446,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1204107",
+      "formula": "Al6B5(O5F)3",
+      "similarity": 0.734395,
+      "PC1": 4.5276,
+      "PC2": -4.7431,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-558550",
+      "formula": "Ag4Mo2Se3O16",
+      "similarity": 0.839584,
+      "PC1": 3.3764,
+      "PC2": -1.1182,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-556798",
+      "formula": "AgHg2AsO4",
+      "similarity": 0.747823,
+      "PC1": 5.1895,
+      "PC2": -2.3508,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1196546",
+      "formula": "Ag2Ge(S2O7)3",
+      "similarity": 0.835038,
+      "PC1": 4.6005,
+      "PC2": -1.5912,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1197599",
+      "formula": "Ag2Sn(S2O7)3",
+      "similarity": 0.821841,
+      "PC1": 5.2846,
+      "PC2": -4.281,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1194585",
+      "formula": "AgP(OF)2",
+      "similarity": 0.781634,
+      "PC1": 4.7586,
+      "PC2": -4.9831,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1195759",
+      "formula": "Ag2P2H2O7",
+      "similarity": 0.781634,
+      "PC1": -0.9802,
+      "PC2": -3.1679,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-28812",
+      "formula": "Ag4Mo2O7",
+      "similarity": 0.839584,
+      "PC1": 2.2901,
+      "PC2": -0.3469,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1214877",
+      "formula": "AlNi2BO5",
+      "similarity": 0.862373,
+      "PC1": 5.214,
+      "PC2": -4.5941,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-24058",
+      "formula": "AgBH2OF4",
+      "similarity": 0.81353,
+      "PC1": 5.3726,
+      "PC2": -4.0382,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1229086",
+      "formula": "AgSO3F",
+      "similarity": 0.718843,
+      "PC1": 3.3607,
+      "PC2": -2.3849,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1190325",
+      "formula": "Ag3PO4",
+      "similarity": 0.772761,
+      "PC1": 3.9106,
+      "PC2": -0.2946,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-27384",
+      "formula": "Ag3BO3",
+      "similarity": 0.785608,
+      "PC1": 4.8988,
+      "PC2": -1.2642,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-707138",
+      "formula": "Ag3AsO4",
+      "similarity": 0.738428,
+      "PC1": 4.7544,
+      "PC2": -0.8891,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1228963",
+      "formula": "Al2HgTe4",
+      "similarity": 0.760501,
+      "PC1": 2.5332,
+      "PC2": -3.336,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1196324",
+      "formula": "Al2CdTe4",
+      "similarity": 0.780014,
+      "PC1": 2.8841,
+      "PC2": -0.9514,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-27966",
+      "formula": "AlPO4",
+      "similarity": 0.77788,
+      "PC1": 3.2724,
+      "PC2": 2.7268,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1228980",
+      "formula": "Al2HgS4",
+      "similarity": 0.758708,
+      "PC1": 2.1808,
+      "PC2": -4.0945,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1228721",
+      "formula": "Al2HgSe4",
+      "similarity": 0.738237,
+      "PC1": 4.9671,
+      "PC2": 0.9981,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1195262",
+      "formula": "AgBi(IO3)4",
+      "similarity": 0.735098,
+      "PC1": 4.4831,
+      "PC2": -0.1661,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-558768",
+      "formula": "AlFeRh2",
+      "similarity": 0.81791,
+      "PC1": 6.4301,
+      "PC2": -2.2328,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1191916",
+      "formula": "Al3Pd5",
+      "similarity": 0.792276,
+      "PC1": 1.2116,
+      "PC2": -3.0448,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1229027",
+      "formula": "Al2BiSe4",
+      "similarity": 0.748172,
+      "PC1": 5.3338,
+      "PC2": -4.7578,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-17477",
+      "formula": "Al2(SO4)3",
+      "similarity": 0.651532,
+      "PC1": 3.3407,
+      "PC2": -1.1224,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-36383",
+      "formula": "AlPd2",
+      "similarity": 0.700325,
+      "PC1": 2.8831,
+      "PC2": -0.3035,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1391",
+      "formula": "Al3BC3",
+      "similarity": 0.765053,
+      "PC1": 4.7231,
+      "PC2": 2.7302,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-662534",
+      "formula": "Al4CO4",
+      "similarity": 0.732983,
+      "PC1": 4.6814,
+      "PC2": -3.0513,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-561620",
+      "formula": "AlCr2C",
+      "similarity": 0.834668,
+      "PC1": 2.9101,
+      "PC2": -3.7498,
+      "is_top": true
+    },
+    {
+      "material_id": "mp-1214944",
+      "formula": "Al2PbO4",
+      "similarity": 0.707286,
+      "PC1": 5.1896,
+      "PC2": -2.9019,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-542298",
+      "formula": "Al2RuRh",
+      "similarity": 0.712426,
+      "PC1": 3.367,
+      "PC2": -0.2825,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-2014966",
+      "formula": "AlNi6Ge",
+      "similarity": 0.803511,
+      "PC1": 2.5101,
+      "PC2": -2.5961,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-997038",
+      "formula": "AlCr3B4",
+      "similarity": 0.786316,
+      "PC1": 0.4378,
+      "PC2": -4.1307,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1192057",
+      "formula": "Al2B3HO8",
+      "similarity": 0.718843,
+      "PC1": 2.494,
+      "PC2": -0.9656,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-761035",
+      "formula": "Al2VNi9",
+      "similarity": 0.750013,
+      "PC1": 5.7733,
+      "PC2": -1.912,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-23558",
+      "formula": "AgNO3",
+      "similarity": 0.764003,
+      "PC1": 4.1445,
+      "PC2": -1.5741,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-1195261",
+      "formula": "Al8(Pb3O7)3",
+      "similarity": 0.754187,
+      "PC1": 5.5922,
+      "PC2": -0.0988,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-558786",
+      "formula": "Al2(Ni7B2)3",
+      "similarity": 0.813102,
+      "PC1": 4.3385,
+      "PC2": -4.0546,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10000",
+      "formula": "Al2O3",
+      "similarity": 0.3773,
+      "PC1": -8.0926,
+      "PC2": 5.8737,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10001",
+      "formula": "TiO2",
+      "similarity": 0.7676,
+      "PC1": 0.847,
+      "PC2": 1.4742,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10002",
+      "formula": "SiO2",
+      "similarity": 0.6431,
+      "PC1": -2.1673,
+      "PC2": 0.6743,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10003",
+      "formula": "MoS2",
+      "similarity": 0.398,
+      "PC1": -3.4314,
+      "PC2": 4.7261,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10004",
+      "formula": "WS2",
+      "similarity": 0.7266,
+      "PC1": 0.1363,
+      "PC2": 0.3648,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10005",
+      "formula": "BN",
+      "similarity": 0.7424,
+      "PC1": 2.3356,
+      "PC2": -0.4181,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10006",
+      "formula": "SiC",
+      "similarity": 0.6119,
+      "PC1": 3.3344,
+      "PC2": 3.7885,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10007",
+      "formula": "GaN",
+      "similarity": 0.6848,
+      "PC1": 0.2633,
+      "PC2": -1.4228,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10008",
+      "formula": "ZnO",
+      "similarity": 0.3584,
+      "PC1": 5.6484,
+      "PC2": 0.4406,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10009",
+      "formula": "In2O3",
+      "similarity": 0.4822,
+      "PC1": 6.0984,
+      "PC2": 5.4011,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10010",
+      "formula": "SnO2",
+      "similarity": 0.3868,
+      "PC1": -1.4337,
+      "PC2": 2.1681,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10011",
+      "formula": "Bi2Se3",
+      "similarity": 0.6793,
+      "PC1": 2.873,
+      "PC2": 2.4484,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10012",
+      "formula": "Bi2Te3",
+      "similarity": 0.464,
+      "PC1": 2.2629,
+      "PC2": -4.1896,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10013",
+      "formula": "Sb2Te3",
+      "similarity": 0.5819,
+      "PC1": -0.1059,
+      "PC2": -3.1685,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10014",
+      "formula": "WTe2",
+      "similarity": 0.7779,
+      "PC1": -1.4659,
+      "PC2": -2.0298,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10015",
+      "formula": "TaS2",
+      "similarity": 0.402,
+      "PC1": 0.2642,
+      "PC2": 2.9489,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10016",
+      "formula": "NbSe2",
+      "similarity": 0.4489,
+      "PC1": 0.1263,
+      "PC2": 1.9915,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10017",
+      "formula": "FeSe",
+      "similarity": 0.4484,
+      "PC1": 5.151,
+      "PC2": -6.207,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10018",
+      "formula": "NiO",
+      "similarity": 0.4523,
+      "PC1": -1.1784,
+      "PC2": -4.4574,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10019",
+      "formula": "CoO",
+      "similarity": 0.7523,
+      "PC1": -2.7609,
+      "PC2": 1.056,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10020",
+      "formula": "Cu2O",
+      "similarity": 0.6972,
+      "PC1": 0.9229,
+      "PC2": 0.4991,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10021",
+      "formula": "Fe2O3",
+      "similarity": 0.5321,
+      "PC1": -4.9968,
+      "PC2": 2.218,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10022",
+      "formula": "Cr2O3",
+      "similarity": 0.7732,
+      "PC1": 3.1932,
+      "PC2": 0.1856,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10023",
+      "formula": "V2O5",
+      "similarity": 0.7205,
+      "PC1": 0.4585,
+      "PC2": 1.2128,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10024",
+      "formula": "WO3",
+      "similarity": 0.5314,
+      "PC1": -0.37,
+      "PC2": 5.2512,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10025",
+      "formula": "MoO3",
+      "similarity": 0.5405,
+      "PC1": 2.6862,
+      "PC2": -6.0135,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10026",
+      "formula": "ZrO2",
+      "similarity": 0.7797,
+      "PC1": 4.8997,
+      "PC2": -2.2391,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10027",
+      "formula": "HfO2",
+      "similarity": 0.7149,
+      "PC1": 2.2819,
+      "PC2": 0.2033,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10028",
+      "formula": "LiCoO2",
+      "similarity": 0.5224,
+      "PC1": 2.9587,
+      "PC2": 4.7613,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10029",
+      "formula": "LiFePO4",
+      "similarity": 0.464,
+      "PC1": 0.677,
+      "PC2": -3.3076,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10030",
+      "formula": "NaCoO2",
+      "similarity": 0.7616,
+      "PC1": 4.598,
+      "PC2": 1.6557,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10031",
+      "formula": "SrTiO3",
+      "similarity": 0.4166,
+      "PC1": -2.6035,
+      "PC2": 6.9328,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10032",
+      "formula": "BaTiO3",
+      "similarity": 0.5831,
+      "PC1": 0.1522,
+      "PC2": -0.1843,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10033",
+      "formula": "PbTiO3",
+      "similarity": 0.5662,
+      "PC1": 1.2591,
+      "PC2": 2.5173,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10034",
+      "formula": "BiFeO3",
+      "similarity": 0.3844,
+      "PC1": 1.4571,
+      "PC2": 4.4936,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10035",
+      "formula": "LaMnO3",
+      "similarity": 0.4511,
+      "PC1": 4.8096,
+      "PC2": 1.5648,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10036",
+      "formula": "LaAlO3",
+      "similarity": 0.6056,
+      "PC1": -2.2295,
+      "PC2": -1.1073,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10037",
+      "formula": "YBa2Cu3O7",
+      "similarity": 0.5748,
+      "PC1": 2.1333,
+      "PC2": 1.0555,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10038",
+      "formula": "MgB2",
+      "similarity": 0.4526,
+      "PC1": -3.883,
+      "PC2": 0.6723,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10039",
+      "formula": "Ti3C2",
+      "similarity": 0.486,
+      "PC1": -0.0135,
+      "PC2": -1.3039,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10040",
+      "formula": "Nb2C",
+      "similarity": 0.7793,
+      "PC1": 1.8065,
+      "PC2": -2.3187,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10041",
+      "formula": "V2C",
+      "similarity": 0.464,
+      "PC1": 5.9569,
+      "PC2": 0.9345,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10042",
+      "formula": "Ti2C",
+      "similarity": 0.5089,
+      "PC1": 3.338,
+      "PC2": 5.5906,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10043",
+      "formula": "Mo2C",
+      "similarity": 0.613,
+      "PC1": 4.873,
+      "PC2": -4.2293,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10044",
+      "formula": "Cr2C",
+      "similarity": 0.7014,
+      "PC1": -1.0389,
+      "PC2": 7.0245,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10045",
+      "formula": "ZrC",
+      "similarity": 0.4077,
+      "PC1": 0.9549,
+      "PC2": 1.2149,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10046",
+      "formula": "HfC",
+      "similarity": 0.4671,
+      "PC1": -4.0901,
+      "PC2": -4.8046,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10047",
+      "formula": "TaC",
+      "similarity": 0.6227,
+      "PC1": -0.0798,
+      "PC2": 6.1265,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10048",
+      "formula": "WC",
+      "similarity": 0.7138,
+      "PC1": 3.2374,
+      "PC2": -0.3486,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10049",
+      "formula": "VC",
+      "similarity": 0.3515,
+      "PC1": 0.3058,
+      "PC2": -5.4327,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10050",
+      "formula": "NbC",
+      "similarity": 0.6687,
+      "PC1": -2.8666,
+      "PC2": -4.7653,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10051",
+      "formula": "TiN",
+      "similarity": 0.3824,
+      "PC1": 4.9057,
+      "PC2": -3.2619,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10052",
+      "formula": "VN",
+      "similarity": 0.7089,
+      "PC1": -1.1559,
+      "PC2": -3.6818,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10053",
+      "formula": "CrN",
+      "similarity": 0.4826,
+      "PC1": 4.5606,
+      "PC2": 0.242,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10054",
+      "formula": "ZrN",
+      "similarity": 0.7365,
+      "PC1": 1.0749,
+      "PC2": -1.3427,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10055",
+      "formula": "HfN",
+      "similarity": 0.6854,
+      "PC1": 2.8105,
+      "PC2": -0.7336,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10056",
+      "formula": "AlN",
+      "similarity": 0.4165,
+      "PC1": 5.6212,
+      "PC2": 1.6776,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10057",
+      "formula": "InN",
+      "similarity": 0.6986,
+      "PC1": 0.9242,
+      "PC2": 1.5127,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10058",
+      "formula": "BP",
+      "similarity": 0.4928,
+      "PC1": 5.211,
+      "PC2": 1.017,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10059",
+      "formula": "BAs",
+      "similarity": 0.6986,
+      "PC1": -0.1963,
+      "PC2": 1.2394,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10060",
+      "formula": "AlP",
+      "similarity": 0.725,
+      "PC1": 1.8814,
+      "PC2": 1.1564,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10061",
+      "formula": "AlAs",
+      "similarity": 0.5479,
+      "PC1": -1.8414,
+      "PC2": 2.0088,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10062",
+      "formula": "GaP",
+      "similarity": 0.3602,
+      "PC1": 0.7189,
+      "PC2": 5.0041,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10063",
+      "formula": "GaAs",
+      "similarity": 0.7658,
+      "PC1": -0.3025,
+      "PC2": 2.7184,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10064",
+      "formula": "InP",
+      "similarity": 0.7719,
+      "PC1": -6.8346,
+      "PC2": -4.4121,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10065",
+      "formula": "InAs",
+      "similarity": 0.7673,
+      "PC1": 4.0932,
+      "PC2": 3.8965,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10066",
+      "formula": "ZnS",
+      "similarity": 0.3966,
+      "PC1": -4.9438,
+      "PC2": 0.123,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10067",
+      "formula": "ZnSe",
+      "similarity": 0.6107,
+      "PC1": -2.9268,
+      "PC2": 0.4359,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10068",
+      "formula": "ZnTe",
+      "similarity": 0.4595,
+      "PC1": -0.1287,
+      "PC2": 3.264,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10069",
+      "formula": "CdS",
+      "similarity": 0.5815,
+      "PC1": -0.8425,
+      "PC2": -2.6742,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10070",
+      "formula": "CdSe",
+      "similarity": 0.5066,
+      "PC1": 4.2913,
+      "PC2": 0.2137,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10071",
+      "formula": "CdTe",
+      "similarity": 0.485,
+      "PC1": 2.9184,
+      "PC2": -4.8525,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10072",
+      "formula": "HgS",
+      "similarity": 0.483,
+      "PC1": -2.7579,
+      "PC2": -0.2539,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10073",
+      "formula": "HgSe",
+      "similarity": 0.4047,
+      "PC1": -6.8598,
+      "PC2": 4.2639,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10074",
+      "formula": "HgTe",
+      "similarity": 0.7382,
+      "PC1": -1.549,
+      "PC2": -1.0206,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10075",
+      "formula": "PbS",
+      "similarity": 0.3502,
+      "PC1": -1.0794,
+      "PC2": 3.2192,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10076",
+      "formula": "PbSe",
+      "similarity": 0.6315,
+      "PC1": -3.1111,
+      "PC2": -1.701,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10077",
+      "formula": "PbTe",
+      "similarity": 0.5535,
+      "PC1": 4.748,
+      "PC2": -5.2359,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10078",
+      "formula": "SnS",
+      "similarity": 0.3865,
+      "PC1": -4.7362,
+      "PC2": -1.6616,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10079",
+      "formula": "SnSe",
+      "similarity": 0.7019,
+      "PC1": 0.438,
+      "PC2": -5.9397,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10080",
+      "formula": "GeS",
+      "similarity": 0.4356,
+      "PC1": 2.2412,
+      "PC2": 0.0875,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10081",
+      "formula": "GeSe",
+      "similarity": 0.7154,
+      "PC1": 3.4009,
+      "PC2": 2.1808,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10082",
+      "formula": "SiGe",
+      "similarity": 0.4336,
+      "PC1": -1.3688,
+      "PC2": -4.8035,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10083",
+      "formula": "C3N4",
+      "similarity": 0.6321,
+      "PC1": 5.5967,
+      "PC2": 2.3056,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10084",
+      "formula": "BC3",
+      "similarity": 0.3958,
+      "PC1": -1.9827,
+      "PC2": 4.3684,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10085",
+      "formula": "B4C",
+      "similarity": 0.5727,
+      "PC1": 2.4486,
+      "PC2": 3.3741,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10086",
+      "formula": "C2N",
+      "similarity": 0.5463,
+      "PC1": 1.6004,
+      "PC2": 0.3847,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10087",
+      "formula": "P4O10",
+      "similarity": 0.606,
+      "PC1": 6.6258,
+      "PC2": -0.7255,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10088",
+      "formula": "GeO2",
+      "similarity": 0.6593,
+      "PC1": -5.7085,
+      "PC2": 0.2416,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10089",
+      "formula": "Ag2O",
+      "similarity": 0.7358,
+      "PC1": 0.3269,
+      "PC2": -4.7609,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10090",
+      "formula": "Au2O3",
+      "similarity": 0.4563,
+      "PC1": -3.6243,
+      "PC2": -3.0715,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10091",
+      "formula": "PtO2",
+      "similarity": 0.6195,
+      "PC1": 0.0412,
+      "PC2": -0.7221,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10092",
+      "formula": "PdO",
+      "similarity": 0.4668,
+      "PC1": -1.7581,
+      "PC2": -0.071,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10093",
+      "formula": "RuO2",
+      "similarity": 0.4494,
+      "PC1": -1.8294,
+      "PC2": -7.16,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10094",
+      "formula": "IrO2",
+      "similarity": 0.5253,
+      "PC1": -3.1489,
+      "PC2": -3.031,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10095",
+      "formula": "Rh2O3",
+      "similarity": 0.5307,
+      "PC1": 3.5647,
+      "PC2": -0.2999,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10096",
+      "formula": "OsO4",
+      "similarity": 0.7184,
+      "PC1": 0.7431,
+      "PC2": -6.3871,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10097",
+      "formula": "ReO3",
+      "similarity": 0.5013,
+      "PC1": 0.1395,
+      "PC2": -1.2708,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10098",
+      "formula": "AgCl",
+      "similarity": 0.5302,
+      "PC1": -0.0024,
+      "PC2": -2.3159,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10099",
+      "formula": "AgBr",
+      "similarity": 0.4448,
+      "PC1": 0.5434,
+      "PC2": -1.1421,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10100",
+      "formula": "AgI",
+      "similarity": 0.4945,
+      "PC1": -1.4137,
+      "PC2": -4.9763,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10101",
+      "formula": "CuCl",
+      "similarity": 0.551,
+      "PC1": 3.2068,
+      "PC2": -1.2772,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10102",
+      "formula": "CuBr",
+      "similarity": 0.5194,
+      "PC1": -0.6508,
+      "PC2": 0.9113,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10103",
+      "formula": "CuI",
+      "similarity": 0.4084,
+      "PC1": -1.1815,
+      "PC2": -0.7758,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10104",
+      "formula": "CsPbI3",
+      "similarity": 0.441,
+      "PC1": -2.6326,
+      "PC2": 2.7805,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10105",
+      "formula": "CH3NH3PbI3",
+      "similarity": 0.6734,
+      "PC1": 1.5481,
+      "PC2": -5.004,
+      "is_top": false
+    },
+    {
+      "material_id": "mp-bg-10106",
+      "formula": "KTaO3",
+      "similarity": 0.3583,
+      "PC1": -13.6573,
+      "PC2": -3.8424,
+      "is_top": false
+    }
+  ]
+}

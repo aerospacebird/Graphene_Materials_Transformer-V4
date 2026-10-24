@@ -1,0 +1,162 @@
+[
+  {
+    "formula": "Al2(CN2)3",
+    "graphene_structure_score": 0.318182,
+    "carbon_fraction": 0.272727,
+    "mean_coordination_number": 3.272727,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AgHg2PO4",
+    "graphene_structure_score": 0.275,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.0,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AgHg2AsO4",
+    "graphene_structure_score": 0.275,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.0,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al3BC3",
+    "graphene_structure_score": 0.261905,
+    "carbon_fraction": 0.428571,
+    "mean_coordination_number": 4.0,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Ag2CO3",
+    "graphene_structure_score": 0.261111,
+    "carbon_fraction": 0.166667,
+    "mean_coordination_number": 2.666667,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al4(B2O5)3",
+    "graphene_structure_score": 0.248,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.36,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2PbO4",
+    "graphene_structure_score": 0.247619,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.142857,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al4CO4",
+    "graphene_structure_score": 0.240741,
+    "carbon_fraction": 0.111111,
+    "mean_coordination_number": 3.555556,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2B3HO8",
+    "graphene_structure_score": 0.240476,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 2.857143,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AgNO3",
+    "graphene_structure_score": 0.24,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.6,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al8(Pb3O7)3",
+    "graphene_structure_score": 0.238596,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.210526,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AgBi(IO3)4",
+    "graphene_structure_score": 0.237037,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.027778,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al6B5(O5F)3",
+    "graphene_structure_score": 0.234483,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.517241,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2H12(SeO5)3",
+    "graphene_structure_score": 0.23125,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 2.625,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AgSO3F",
+    "graphene_structure_score": 0.230556,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.166667,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2HgTe4",
+    "graphene_structure_score": 0.228571,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.428571,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2HgS4",
+    "graphene_structure_score": 0.228571,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.428571,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2HgSe4",
+    "graphene_structure_score": 0.228571,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.428571,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "Al2BiSe4",
+    "graphene_structure_score": 0.228571,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.428571,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  },
+  {
+    "formula": "AlCuSnSe4",
+    "graphene_structure_score": 0.228571,
+    "carbon_fraction": 0.0,
+    "mean_coordination_number": 3.428571,
+    "cc_bond_length_deviation": 1.0,
+    "estimated_dimensionality": 0
+  }
+]

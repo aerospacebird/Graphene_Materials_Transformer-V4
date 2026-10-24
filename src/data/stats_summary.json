@@ -1,0 +1,17 @@
+{
+  "total_materials": 500,
+  "with_structure": 500,
+  "train_samples": 400,
+  "val_samples": 100,
+  "best_val_loss": 0.3122,
+  "initial_loss": 0.8713,
+  "element_features_dim": 9,
+  "transformer_depth": 3,
+  "transformer_heads": 4,
+  "embedding_dim": 64,
+  "pca_variance_pc1": 42.28,
+  "pca_variance_pc2": 17.54,
+  "pca_variance_total": 59.82,
+  "graphene_ref_pc1": -0.15,
+  "graphene_ref_pc2": -3.65
+}

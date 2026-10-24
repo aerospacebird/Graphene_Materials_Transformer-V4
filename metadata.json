@@ -1,0 +1,6 @@
+{
+  "name": "Graphene Materials Transformer V4 Web Dashboard",
+  "description": "Structure-aware graphene-like material discovery and property prediction web dashboard using Transformer V4, PCA embedding space analysis, and DFT validation candidate screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
